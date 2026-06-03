@@ -27,7 +27,6 @@ const devopsSkills = [
 
 const alsoSkills = ["JWT", "Socket.io", "GraphQL", "Prisma", "Jest", "Webpack", "Figma", "Postman"];
 
-// ── Sub-components ──────────────────────────────────────────────────────────
 
 function SkillCard({ name, icon }: { name: string; icon: string }) {
   return (
@@ -69,7 +68,6 @@ function SkillGroup({
   );
 }
 
-// ── Main export ─────────────────────────────────────────────────────────────
 
 export default function Skills() {
   return (

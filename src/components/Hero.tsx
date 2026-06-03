@@ -90,7 +90,6 @@ export default function Hero() {
           </a>
         </div>
 
-        {/* Scroll indicator */}
         <div className="mt-16 flex flex-col items-center gap-1 text-gray-600 text-xs font-mono">
           <div className="w-px h-10 bg-gradient-to-b from-transparent to-gray-600" />
           SCROLL
