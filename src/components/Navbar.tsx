@@ -40,7 +40,7 @@ export default function Navbar() {
     >
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
         <span className="text-violet-400 font-mono font-bold text-lg tracking-tight">
-          &lt;Tokhirjonov /&gt;
+          &lt;Tokhirjonov/&gt;
         </span>
 
         <div className="hidden md:flex items-center gap-8">
