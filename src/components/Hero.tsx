@@ -3,7 +3,7 @@ import { BiSolidLeaf } from "react-icons/bi";
 import { FaGithub, FaLinkedin, FaTelegram } from "react-icons/fa";
 
 export default function Hero() {
-  const [typed, setTyped] = useState("");
+  const [typed, setTyped] = useState("")
   const full = "Fullstack Developer";
 
   useEffect(() => {
